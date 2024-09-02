@@ -1,5 +1,8 @@
 # logo.telesimon.com
 
+
+![obraz](https://github.com/user-attachments/assets/34baac41-ad4b-40ca-be4c-8bd2af7e0598)
+
 ![svgviewer-png-output(2)](https://github.com/user-attachments/assets/80034f84-3ab9-4835-af5e-427e745cffbb)
 
 
